@@ -1,7 +1,7 @@
 {
     "packageDirectories": [
         {
-             "path": "objects",
+             "path": "applications",
              "default": true,
              "package": "DEFAULT-PACKAGE-EXPERIMENTAL",
              "versionName": "Winter ‘20",
