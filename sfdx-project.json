@@ -1,7 +1,7 @@
 {
     "packageDirectories": [
         {
-             "path": "object",
+             "path": "objects",
              "default": true,
              "package": "Expense Manager - Util",
              "versionName": "Winter ‘20",
