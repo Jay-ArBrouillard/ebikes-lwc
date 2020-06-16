@@ -10,7 +10,7 @@
              "definitionFile": "config/scratch-org-def.json"
         },
                 {
-             "path": "objects",
+             "path": "object",
              "default": true,
              "package": "DEFAULT-PACKAGE-2",
              "versionName": "Winter ‘20",
