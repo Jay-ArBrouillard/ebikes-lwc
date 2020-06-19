@@ -3,7 +3,7 @@
         {
              "path": "objects",
              "default": true,
-             "package": "DEFAULT-PACKAGE-1",
+             "package": "SimplePackage",
              "versionName": "Winter ‘20",
              "versionDescription": "Created automatically 1st",
              "versionNumber": "4.7.0.NEXT",
