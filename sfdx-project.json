@@ -10,7 +10,7 @@
              "definitionFile": "config/scratch-org-def.json"
         },
                 {
-             "path": "/force-app/main/default/layouts",
+             "path": "layouts",
              "default": true,
              "package": "force-app",
              "versionName": "version1",
